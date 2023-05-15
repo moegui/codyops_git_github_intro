@@ -1,2 +1,1 @@
-# codyops.git_github_introductorio
-CodyOps | Git &amp; GitHub Introductorio - Practicas
+# CodyOps | Git &amp; GitHub Introductorio - Practicas
